@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Learning-react-web/static/css/main.1aeb4eed.css",
+    "main.js": "/Learning-react-web/static/js/main.09e384c6.js",
+    "static/media/home_elearning_blog3-195x146.jpg": "/Learning-react-web/static/media/home_elearning_blog3-195x146.e5ca11f0488c17e6b9f4.jpg",
+    "static/media/home_elearning_blog1-350x263.jpg": "/Learning-react-web/static/media/home_elearning_blog1-350x263.3fd7e6dc720755a9f459.jpg",
+    "static/media/home_elearning_blog2-195x146.jpg": "/Learning-react-web/static/media/home_elearning_blog2-195x146.c25c15475142d42b6f31.jpg",
+    "static/media/home_elearning_contentslider_slide2.png": "/Learning-react-web/static/media/home_elearning_contentslider_slide2.9b6df84ff7ec371e647a.png",
+    "static/media/home_elearning.jpg": "/Learning-react-web/static/media/home_elearning.1f8f591574e5cb2c33bb.jpg",
+    "static/media/home_elearning_ourteam2.jpg": "/Learning-react-web/static/media/home_elearning_ourteam2.00b2b8f50de4f761f59e.jpg",
+    "static/media/home_elearning_ourteam1.jpg": "/Learning-react-web/static/media/home_elearning_ourteam1.1a29c692eb29444329b0.jpg",
+    "static/media/home_elearning_ourteam3.jpg": "/Learning-react-web/static/media/home_elearning_ourteam3.d1e3036620dfd885bfc8.jpg",
+    "index.html": "/Learning-react-web/index.html",
+    "main.1aeb4eed.css.map": "/Learning-react-web/static/css/main.1aeb4eed.css.map",
+    "main.09e384c6.js.map": "/Learning-react-web/static/js/main.09e384c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aeb4eed.css",
+    "static/js/main.09e384c6.js"
+  ]
+}
